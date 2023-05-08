@@ -44,7 +44,7 @@ header {
 .navigation a:hover, 
 .navigation a.active {
     background: #359381;
-    color: #fff;
+    color: #359381;
 }
 
 .parallax {
